@@ -2,4 +2,3 @@
 aws_groups:
   - detroit
   - keywest
-  - nashville
