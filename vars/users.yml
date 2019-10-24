@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
+  - name: michigan
     aws_groups: "sacramento, fresno, indio, detroit"
-  - name: user2
+  - name: florida
     aws_groups: "losangeles, sanfransisco, napa, keywest"
-  - name: user3
+  - name: tennessee
     aws_groups: "palmsprings, indio, sandiego, chattanooga"
