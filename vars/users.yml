@@ -1,6 +1,6 @@
 ---
 users:
-  - name: michigan
-    aws_groups: "detroit"
-  - name: florida
-    aws_groups: "keywest"
+  - name: auburn
+    aws_groups: "alabama"
+  - name: atlanta
+    aws_groups: "georgia"
