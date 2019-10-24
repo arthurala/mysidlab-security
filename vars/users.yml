@@ -4,5 +4,3 @@ users:
     aws_groups: "detroit"
   - name: florida
     aws_groups: "keywest"
-  - name: tennessee
-    aws_groups: "nashville"
